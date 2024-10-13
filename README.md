@@ -1,4 +1,4 @@
-## slc
+## Eai!
 
  <div>
    <a href="https://github.com/nanda662">
@@ -14,8 +14,6 @@
 </div>
  
 <br>
- 
-
  
 <div> 
 
