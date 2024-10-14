@@ -1,5 +1,5 @@
-## Eai!
-<di> <img src="https://drive.google.com/file/d/1aONDQi5RiypCaDBmuZ038rHtClT6WS1C/view?usp=sharing"/>
+## Ei!
+
  <div>
    <a href="https://github.com/nanda662">
    
